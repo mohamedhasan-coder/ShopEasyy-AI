@@ -33,6 +33,3 @@ Notes and next steps
 - The frontend includes a Chatbot component, product pages, admin dashboard stub, and Redux slices for auth/cart/products.
 
 If you'd like, I can now:
-- Flesh out the admin UI (product create/edit forms, charts)
-
-
