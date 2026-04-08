@@ -31,5 +31,3 @@ Notes and next steps
 - The scaffold focuses on correctness and extensibility. Complete validation, rate limiting, input sanitization, production logging, and tests should be added before production.
 - Cloudinary, Razorpay, and OpenAI depend on env credentials. The AI endpoint will fallback to a simple DB search if OpenAI key is not present.
 - The frontend includes a Chatbot component, product pages, admin dashboard stub, and Redux slices for auth/cart/products.
-
-If you'd like, I can now:
