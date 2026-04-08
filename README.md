@@ -34,5 +34,5 @@ Notes and next steps
 
 If you'd like, I can now:
 - Flesh out the admin UI (product create/edit forms, charts)
-- Add end-to-end tests and unit tests
+
 
