@@ -1,4 +1,4 @@
-# ShopEasyy AI — Fullstack MERN (Scaffold)
+# ShopEasyy AI — Fullstack MERN 
 
 This repository contains a scaffold for ShopEasyy AI: a MERN-stack e-commerce app with AI features. It provides a starter implementation for many requested features: authentication (JWT), product CRUD with Cloudinary, cart (Redux + localStorage), Razorpay integration hooks, AI assistant endpoint (OpenAI optional + DB fallback), Socket.io real-time order updates, and a Vite+React frontend with Tailwind and Redux Toolkit.
 
