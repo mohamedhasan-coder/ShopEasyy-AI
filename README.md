@@ -6,7 +6,7 @@ Folders
 
 - backend — Express API server
 - frontend — Vite React app
-
+ 
 Quick start (development)
 
 1. Create .env files using the provided `.env.example`.
